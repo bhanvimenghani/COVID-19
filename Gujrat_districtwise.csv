@@ -1,0 +1,36 @@
+SlNo,State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased,Migrated_Other,Delta_Confirmed,Delta_Active,Delta_Recovered,Delta_Deceased,Latitude,Longitude
+0,GJ,Gujarat,GJ_Other State,Other State,86,3,82,1,0,0,0,0,0,,
+157,GJ,Gujarat,GJ_Ahmedabad,Ahmedabad,24767,3674,19533,1560,0,0,0,0,0,23.025793,72.587265
+158,GJ,Gujarat,GJ_Amreli,Amreli,246,102,135,9,0,0,0,0,0,,
+159,GJ,Gujarat,GJ_Anand,Anand,370,24,333,13,0,0,0,0,0,,
+160,GJ,Gujarat,GJ_Aravalli,Aravalli,276,19,233,24,0,0,0,0,0,,
+161,GJ,Gujarat,GJ_Banaskantha,Banaskantha,485,103,365,17,0,0,0,0,0,,
+162,GJ,Gujarat,GJ_Bharuch,Bharuch,617,221,385,11,0,0,0,0,0,23.253972,69.669281
+163,GJ,Gujarat,GJ_Bhavnagar,Bhavnagar,993,495,479,19,0,0,0,0,0,21.774455,72.152496
+164,GJ,Gujarat,GJ_Botad,Botad,165,75,87,3,0,0,0,0,0,,
+165,GJ,Gujarat,GJ_Chhota Udaipur,Chhota Udaipur,100,29,69,2,0,0,0,0,0,,
+167,GJ,Gujarat,GJ_Dahod,Dahod,294,229,61,4,0,0,0,0,0,,
+187,GJ,Gujarat,GJ_Dang,Dang,9,2,7,0,0,0,0,0,0,,
+166,GJ,Gujarat,GJ_Devbhumi Dwarka,Devbhumi Dwarka,34,6,25,3,0,0,0,0,0,,
+168,GJ,Gujarat,GJ_Gandhinagar,Gandhinagar,1142,277,829,36,0,0,0,0,0,23.216667,72.683333
+169,GJ,Gujarat,GJ_Gir Somnath,Gir Somnath,215,151,60,4,0,0,0,0,0,,
+170,GJ,Gujarat,GJ_Jamnagar,Jamnagar,483,146,326,11,0,0,0,0,0,,
+171,GJ,Gujarat,GJ_Junagadh,Junagadh,584,141,437,6,0,0,0,0,0,,
+173,GJ,Gujarat,GJ_Kheda,Kheda,454,137,302,15,0,0,0,0,0,,
+172,GJ,Gujarat,GJ_Kutch,Kutch,353,130,213,10,0,0,0,0,0,,
+175,GJ,Gujarat,GJ_Mahisagar,Mahisagar,229,84,143,2,0,0,0,0,0,,
+174,GJ,Gujarat,GJ_Mehsana,Mehsana,613,342,256,15,0,0,0,0,0,,
+176,GJ,Gujarat,GJ_Morbi,Morbi,160,56,100,4,0,0,0,0,0,,
+177,GJ,Gujarat,GJ_Narmada,Narmada,157,47,110,0,0,0,0,0,0,,
+178,GJ,Gujarat,GJ_Navsari,Navsari,383,140,238,5,0,0,0,0,0,20.85,72.916667
+179,GJ,Gujarat,GJ_Panchmahal,Panchmahal,335,96,224,15,0,0,0,0,0,,
+180,GJ,Gujarat,GJ_Patan,Patan,394,87,286,21,0,0,0,0,0,,
+181,GJ,Gujarat,GJ_Porbandar,Porbandar,34,6,26,2,0,0,0,0,0,21.641346,69.600868
+182,GJ,Gujarat,GJ_Rajkot,Rajkot,1096,650,425,21,0,0,0,0,0,22.291606,70.793217
+183,GJ,Gujarat,GJ_Sabarkantha,Sabarkantha,328,116,204,8,0,0,0,0,0,,
+184,GJ,Gujarat,GJ_Surat,Surat,10276,3028,6961,287,0,0,0,0,0,21.195944,72.830232
+185,GJ,Gujarat,GJ_Surendranagar,Surendranagar,484,277,197,10,0,0,0,0,0,,
+186,GJ,Gujarat,GJ_Tapi,Tapi,92,32,60,0,0,0,0,0,0,,
+188,GJ,Gujarat,GJ_Vadodara,Vadodara,3740,583,3100,57,0,0,0,0,0,22.299405,73.208119
+189,GJ,Gujarat,GJ_Valsad,Valsad,471,253,213,5,0,0,0,0,0,,
+739,GJ,Gujarat,GJ_Unknown,Unknown,0,0,0,0,0,0,0,0,0,,
